@@ -20,8 +20,8 @@ public class Main {
 //        String[] strArr = new String[] {"a", "b", "c", "d"};
 //        Stream<String> strStream = Stream.of(strArr);
         //위와 같은 두줄이 바로 아래 한줄로 줄알 수 있다.
-        Stream<String> strStream  = Stream.of(new String[]{"a", "b", "c"});
-        strStream.forEach(System.out::println);
+        //Stream<String> strStream  = Stream.of(new String[]{"a", "b", "c"});
+        //strStream.forEach(System.out::println);
 
         //int배열을 integer배열로 바꿔 스트림으로
 //        Integer[] intArr = {1, 2, 3, 4, 5};
