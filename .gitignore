@@ -15,6 +15,9 @@ build/
 out/
 !**/src/main/**/out/
 !**/src/test/**/out/
+### IntelliJ IDEA ###
+.idea
+
 
 ### Eclipse ###
 .apt_generated

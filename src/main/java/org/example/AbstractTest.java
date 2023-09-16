@@ -33,7 +33,7 @@ abstract class AabstractPlayer extends Player{
 //상속받은 클래스의 추상메서드를 모두 구현 함으로 완전한 클래스
 class QuickTimePlayer extends Player{
 
-    void play(int pos) { System.out.println(pos + "위치부터 paly 됩니다.");}
+    void play(int pos) { System.out.println(pos + " 위치부터 paly 됩니다.");}
     void stop(){ System.out.println("재생을 중지합니다.");}
 }
 
