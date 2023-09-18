@@ -1,4 +1,4 @@
-package org.example;
+package org.example.Polymorphismmm;
 class Display{
     boolean power; //전원상태
     int lightness; //밝기
