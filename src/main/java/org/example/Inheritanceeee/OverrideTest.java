@@ -1,4 +1,4 @@
-package org.example;
+package org.example.Inheritanceeee;
 class Point extends Object{
     int x;
     int y;

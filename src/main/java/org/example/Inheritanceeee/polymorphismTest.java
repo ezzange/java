@@ -1,8 +1,6 @@
-package org.example;
+package org.example.Inheritanceeee;
 
 
-import javax.sql.rowset.serial.SerialStruct;
-import java.lang.management.MonitorInfo;
 import java.util.Vector;
 
 class Product {

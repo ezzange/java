@@ -1,4 +1,4 @@
-package org.example;
+package org.example.Inheritanceeee;
 
 abstract class Player{ //추상(미완성)클래스
 

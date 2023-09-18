@@ -1,4 +1,4 @@
-package org.example;
+package org.example.Inheritanceeee;
 
 abstract class Unit{ //공통부분을 추출하여 만든 추상클래스
     int x,y;

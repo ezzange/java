@@ -1,4 +1,4 @@
-package org.example;
+package org.example.Encapsulationnn;
 
 public class EncapsulationTest {
 

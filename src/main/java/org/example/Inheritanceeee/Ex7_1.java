@@ -1,6 +1,4 @@
-package org.example;
-
-import java.util.Queue;
+package org.example.Inheritanceeee;
 
 class display { //부모클래스의 멤버 5개
     boolean power; //전원상태

@@ -1,4 +1,4 @@
-package org.example;
+package org.example.Inheritanceeee;
                 //컴파일 시 컴파일러가 자동 추가
 class MyPoint extends Object{
     int x;

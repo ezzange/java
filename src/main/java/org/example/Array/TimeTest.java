@@ -1,4 +1,4 @@
-package org.example;
+package org.example.Array;
 
 class Time{
     private int hour;

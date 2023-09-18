@@ -1,4 +1,4 @@
-package org.example;
+package org.example.interfacesss;
 
 public class StaticTest {
     static int a = 100; //모든 인스턴스에 공통적으로 사용 되는 클래스 변수가 된다.
