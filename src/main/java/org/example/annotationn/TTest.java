@@ -4,9 +4,9 @@ import java.lang.annotation.Annotation;
 import java.util.Arrays;
 
 @Deprecated
-@SuppressWarnings("1111") //유호하지 않은 어노테이션은 무시
+@SuppressWarnings("1111") //유효 하지 않은 어노테이션은 무시
 @Testinfo(
-        count = 3,
+        count = 3, //디폴트값은 값을 지정하지 않아도 알아서 오지만 지정하여 변경함.
         TestedBy = "test",
         testTools = {"mini","max"}
 )
